@@ -15,4 +15,4 @@ El juego cuenta con las siguientes características:
 
 ¡Disfruta jugando!
 
-Este juego forma parte de la entrevista técnica para Kodland.
+> Este juego forma parte de la entrevista técnica para Kodland.
