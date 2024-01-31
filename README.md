@@ -14,3 +14,5 @@ El juego cuenta con las siguientes características:
 - Límite de tiempo: El juego tiene un límite de tiempo, y si logras sobrevivir hasta el final del límite de tiempo, ganas el juego y puedes jugar otra ronda.
 
 ¡Disfruta jugando!
+
+Este juego forma parte de la entrevista técnica para Kodland.
