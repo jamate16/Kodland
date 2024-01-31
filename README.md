@@ -15,4 +15,8 @@ El juego cuenta con las siguientes características:
 
 ¡Disfruta jugando!
 
+## Demostración
+
+https://github.com/jamate16/Kodland/assets/46308937/134fa66b-09c4-412e-b3c5-9dfd2260bbdb
+
 > Este juego forma parte de la entrevista técnica para Kodland.
